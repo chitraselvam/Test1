@@ -13,6 +13,9 @@ public class LanguageInfo {
 	public void hindiLanguage() {
 System.out.println("i can speak hindi");
 	}
+	public void teluguLanguage() {
+		System.out.println("i can speak telugu");
+			}
 	
 	public static void main(String[] args) {
 		LanguageInfo lang= new LanguageInfo();
